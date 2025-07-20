@@ -11,23 +11,17 @@ Before you begin, ensure you have:
 
 ## 🚀 1. Installing dasolve
 
-### Option 1: Install dasolve from PyPI
+### Option 1: Install dasolve from PyPI (In Progress)
 
 ```bash
 pip install dasolve
 ```
 
-### Option 2: Install dasolve from GitHub
+### Option 2: Install dasolve from GitHub (Recommended)
 
 ```bash
 git clone https://github.com/aarushdixit889/dasolve.git
-```
-
-```bash
 cd dasolve
-```
-
-```bash
 pip install -e .
 ```
 
